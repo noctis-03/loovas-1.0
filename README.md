@@ -1,1 +1,1 @@
-# loovas-1.0
+# loovas
